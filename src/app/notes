@@ -1,0 +1,10 @@
+1    import packages like HttpClientModule,ReactiveFormsModule in app.odule..tsflle
+
+2   create Routing forCRUD system in app routing module tsflle
+
+3 create book class for Data model 
+        book.tsflle
+
+4    create a service
+
+5 add design of page 
